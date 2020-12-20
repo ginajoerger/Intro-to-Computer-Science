@@ -12,6 +12,6 @@ client_state_machine_student.py
 
 ----------
 
-Please click here for our demo link:
+Please click here to view the demo of the chat system:
 
 https://youtu.be/PQvl-_XHOH8
